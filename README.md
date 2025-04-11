@@ -1,0 +1,1 @@
+Welcome to my Professional Coding Portfolio! This repository contains a collection of tools, projects, shared libraries, and ideas showcasing my coding skills.
